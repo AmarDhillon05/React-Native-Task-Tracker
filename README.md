@@ -6,7 +6,7 @@ This is a simple React Native app for mangaging tasks. It contains a simple list
 ## Setup instructions
 - Clone this repository locally and enter the repository's directory
 - Run `npm i` to install the required dependencies
-- Run `npm run {platform}` to run on `web` or `android` or `ios` emulators, or simply do `npm start` and follow the instructions in the terminal
+- Run `npm run web`, `android` or `ios` for web or mobile emulators, or simply do `npm start` and follow the instructions in the terminal
 
 ## Third-Party Libraries
 **Nativewind**: Used as a tailwind implementation for convenient class-based styling
